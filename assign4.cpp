@@ -6,10 +6,11 @@ using namespace std;
   double width;
   double area;
 
-  len=5;
-  wid=2;
+  lenth=5;
+  width=2;
+  area=10;
 
- area=length*width;
+  area=length*width;
 
 
 
